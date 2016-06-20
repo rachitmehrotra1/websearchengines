@@ -1,0 +1,11 @@
+Compiling instruction (for MAC terminal.. should work with linux too)
+For Compilation:
+javac -cp commons-cli-1.3.1.jar:.:jsoup-1.8.3.jar pagerank.java
+For Execution: 
+java -cp .:commons-cli-1.3.1.jar:.:jsoup-1.8.3.jar pagerank -docs Prog3Example/ -f0.7 
+
+
+Just incase there seems to be an error in the Compilation Procedure, I’m also including a Executable Jar of the same program
+
+Steps to Run the Code using Executable Jar:
+java -jar pagerank_rachit.jar -docs Prog3Example/ -f 0.7
