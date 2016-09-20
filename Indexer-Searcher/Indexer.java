@@ -24,6 +24,10 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.RAMDirectory;
+
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
 public class Indexer {
 	
 	public static void main (String args[]) throws Exception

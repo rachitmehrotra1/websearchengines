@@ -3,6 +3,9 @@
 //     java WebCrawler <URL> [N]
 //  where URL is the url to start the crawl, and N (optional)
 //  is the maximum number of pages to download.
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
 
 import java.text.*;
 import java.util.*;

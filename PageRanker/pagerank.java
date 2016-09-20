@@ -16,6 +16,11 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+
+//Rachit Mehrotra
+//rm4149@nyu.edu
+
+
 public class pagerank {
   public static String docs;
   public static float fm, epsilon;
